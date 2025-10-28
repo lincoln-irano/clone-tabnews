@@ -1,0 +1,22 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "Este projeto é um clone do TabNews com o objetivo principal de estudar e aplicar os conceitos apresentados no curso curso.dev do Filipe Deschamps.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-l:lincoln-irano/clone-tabnews.git"
+  },
+  "keywords": [],
+  "author": "Lincoln José Alvares Irano",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
